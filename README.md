@@ -5,29 +5,29 @@
 🚀 Em busca da primeira oportunidade na área de tecnologia  
 
 ## 🛠️ Tecnologias
+
 - HTML, CSS, JavaScript  
-- Python (em aprendizado)  
-- Java (em aprendizado)  
+- Python (em estudo)  
+- Java (em estudo)  
 - Git e GitHub  
 
 ## 📌 Projetos em destaque
 
 ### 🚗 Studio Barone - Estética Automotiva
+
 Site desenvolvido para uma empresa de estética automotiva, com foco na apresentação de serviços e contato com clientes.
 
-🔧 Tecnologias:  
+🔧 Tecnologias:
 - HTML  
 - CSS  
-- JavaScript  
+- JavaScript
+  
+📍 Funcionalidades:
+- Página de serviços
+- Contato via WhatsApp e outras redes sociais
+- Layout responsivo
 
-📍 Funcionalidades:  
-- Página de serviços  
-- Contato via WhatsApp  
-- Layout responsivo  
+🚀 Status: Concluído
 
-🚀 Status: Em desenvolvimento  
-
----
-
-## 📫 Contato  
-- LinkedIn: ...
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/victor-monteiro1207
