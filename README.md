@@ -17,7 +17,7 @@
 
 Site desenvolvido para uma empresa de estética automotiva, com foco na apresentação de serviços e contato com clientes.
 
-🔧 Tecnologias:
+🔧Tecnologias:
 - HTML  
 - CSS  
 - JavaScript
