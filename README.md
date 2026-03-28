@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Victor
 
-<!--
-**VictorMonteiro96/VictorMonteiro96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Focado em desenvolvimento web  
+🚀 Em busca da primeira oportunidade na área de tecnologia  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- HTML, CSS, JavaScript  
+- Python (em aprendizado)  
+- Java (em aprendizado)  
+- Git e GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+
+### 🚗 Studio Barone - Estética Automotiva
+Site desenvolvido para uma empresa de estética automotiva, com foco na apresentação de serviços e contato com clientes.
+
+🔧 Tecnologias:  
+- HTML  
+- CSS  
+- JavaScript  
+
+📍 Funcionalidades:  
+- Página de serviços  
+- Contato via WhatsApp  
+- Layout responsivo  
+
+🚀 Status: Em desenvolvimento  
+
+---
+
+## 📫 Contato  
+- LinkedIn: ...
