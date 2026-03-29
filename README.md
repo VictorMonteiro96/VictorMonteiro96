@@ -13,7 +13,7 @@
 
 ## 📌 Projetos em destaque
 
-### 🚗 Studio Barone - Estética Automotiva
+### 🚗 Studio Baroni - Estética Automotiva
 
 Site desenvolvido para uma empresa de estética automotiva, com foco na apresentação de serviços e contato com clientes.
 
