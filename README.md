@@ -58,4 +58,5 @@ Site institucional desenvolvido para a empresa HAS SOLUÇÕES, com foco em divul
 ## 📫 Contato
 
 - LinkedIn: www.linkedin.com/in/victor-monteiro1207
-- WhatsApp: (11) 91725-8009
+- WhatsApp: (11) 91725-8009 (https://wa.me/5511917258009)
+- Site: https://vmtecnologia.netlify.app/
