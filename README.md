@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Focado em desenvolvimento web  
-🚀 Em busca da primeira oportunidade na área de tecnologia  
+🚀 Em busca da evolução constante
 
 ## 🛠️ Tecnologias
 
