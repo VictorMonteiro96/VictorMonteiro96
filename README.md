@@ -51,7 +51,8 @@ Site institucional desenvolvido para a empresa HAS SOLUÇÕES, com foco em divul
 - Venda de serviços e kits
 - Layout responsivo para mobile e desktop
 
-🚀 Status: Em desenvolvimento
+🚀 Status: Concluido
+🔗 https://hassolucoes.com.br
 
 ---
 
